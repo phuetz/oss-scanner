@@ -1,0 +1,8 @@
+# Code Buddy — agent de code multi-fournisseurs en terminal (TypeScript/Node), avec serveur HTTP/WebSocket et flotte d'agents.
+repo: https://github.com/phuetz/code-buddy#main
+
+# Contact sécurité : les rapports arrivent ici.
+primary_contact: patrice.huetz+security@gmail.com
+
+homepage: https://github.com/phuetz/code-buddy
+disabled: false
